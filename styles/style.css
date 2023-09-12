@@ -48,3 +48,46 @@
     font-size: 20px;
     font-weight: 600;
 }
+
+/* main section style  */
+
+.previous-year-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container-element {
+    margin-top: 250px;
+}
+
+.container-img {
+    margin: 70px;
+    width: 100vh;
+    height: 100vh;
+}
+
+.container-text h1 {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.container-text p {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.list-item {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 18px;
+}
+
+.list-item li {
+    margin-top: 10px;
+    list-style: none;
+}
