@@ -165,3 +165,55 @@
     font-size: 20px;
     font-weight: 600;
 }
+
+/* footer section style */
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #151414;
+    width: 100%;
+    height: 577px;
+}
+
+.future-section h1 {
+    color: #f8f8f8;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.future-section p {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 17px;
+}
+
+.social-icon img {
+    padding: 5px;
+}
+
+.subscribe-section {
+
+    height: 250px;
+}
+
+.subscribe-section h1 {
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+
+}
+
+.subscribe-section input {
+    color: #f3f3f3;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 10px;
+    background-color: #151414;
+    border: 0px solid black;
+    border-radius: 8px;
+    margin: 17px 0;
+}
